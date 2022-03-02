@@ -18,7 +18,7 @@ from Scripts.model_runner import predict_emotion
 # setting streamlit page configurations
 
 st.set_page_config(
-    page_title="Medical Diagnosis Platform",
+    page_title="Emotion Detection",
     layout="centered",
     page_icon=None,
     initial_sidebar_state="auto",
