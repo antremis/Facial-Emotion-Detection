@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM python
 MAINTAINER Rishaab
 RUN apt-get update
 COPY . .
