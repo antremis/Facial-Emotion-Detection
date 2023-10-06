@@ -6,4 +6,4 @@ COPY . src/
 WORKDIR src
 
 RUN pip install -r requirements.txt
-RUN streamlit run app.py --server.port 80
+RUN streamlit run app.py --server.port 5050
